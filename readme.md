@@ -2,7 +2,7 @@
 
 Bootstrap website for Canadian Contractor Services.
 
-<img src="./ss.png"  />
+<img src="./ss.jpeg"  />
 
 ## Features
 
